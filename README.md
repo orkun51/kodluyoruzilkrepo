@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+www.patika.dev
 
 ![Kodluyoruz](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
 
